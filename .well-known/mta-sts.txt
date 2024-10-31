@@ -1,7 +1,5 @@
 version: STSv1
 mode: enforce
 mx: mail.therapiedelatourelle.net
-mx: *.therapiedelatourelle.net
-mx: therapiedelatourelle.net
 mx: mail.tdlt.ch
 max_age: 604800
